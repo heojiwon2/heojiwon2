@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
 </div>
 
-### <div align="center">Frameworks & Tools</div>
+### <div align="center">Frameworks </div>
 
 <div align="center">
 
