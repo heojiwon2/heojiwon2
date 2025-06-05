@@ -1,11 +1,21 @@
 ## 👋 Hi I'm Jiwon Heo
-- 📫 emil: hjo2604@naver.com
+<div align="center">
 
+- 📫 email: hjo2604@naver.com
+
+</div>
+
+---
 
 ## 💻 Tech Stack
-### language
+### <div align="center">Language</div>
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+</div>
 
 
 
