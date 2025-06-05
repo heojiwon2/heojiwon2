@@ -38,7 +38,7 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=Thank you!&fontAlign=50&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=Thank%20you!&fontAlign=50&fontSize=40)
 
 
 
