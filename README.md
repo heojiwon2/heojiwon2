@@ -5,7 +5,6 @@
 
 </div>
 
----
 
 ## 💻 Tech Stack
 ### <div align="center">Language</div>
