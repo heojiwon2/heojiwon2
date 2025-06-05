@@ -1,7 +1,7 @@
 ## 👋 Hi I'm Jiwon Heo
 <div align="center">
 
-- 📫 email: hjo2604@naver.com
+📫 email: hjo2604@naver.com
 
 </div>
 
