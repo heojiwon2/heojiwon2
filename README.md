@@ -16,11 +16,14 @@
 
 </div>
 
-### <div align="center">Library</div>
+### <div align="center"> Data Analysis</div>
 
 <div align="center">
+
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+
 </div>
 
 ### <div align="center">Frameworks </div>
@@ -31,6 +34,9 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
 
 </div>
+
+
+
 
 
 
