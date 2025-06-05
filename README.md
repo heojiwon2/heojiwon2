@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=Hello,%20I%27m%20Jiwon!&fontAlign=50&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=Hello,%20I%27m%20Jiwon!&fontAlign=50&fontSize=30)
+
+
 
 
 ## 👋 Hi I'm Jiwon Heo
@@ -38,7 +40,9 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=Thank%20you!&fontAlign=50&fontSize=40)
+<br><br><br>
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=Thank%20you!&fontAlign=50&fontSize=30)
 
 
 
