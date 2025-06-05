@@ -1,6 +1,14 @@
-## Hi I'm Jiwon Heo 👋
+## 👋 Hi I'm Jiwon Heo
 - 📫 emil: hjo2604@naver.com
-- 
+
+
+## 💻 Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+
+
+
+
 
 <!--
 **heojiwon2/heojiwon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
