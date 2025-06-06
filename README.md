@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPSS-007396?style=flat&logo=spss&logoColor=white" />
+
+
+  
 
 </div>
 
