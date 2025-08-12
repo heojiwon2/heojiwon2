@@ -3,7 +3,7 @@
 
 
 
-## 👋 Hi I'm Jiwon Heo
+## 👋 Hi I'm Jiwon Heo , I want to make my society happier and more efficiently!
 <div align="center">
 
 📫 email: hjo2604@naver.com
@@ -21,7 +21,7 @@
 
 </div>
 
-### <div align="center"> Data Analysis</div>
+### <div align="center"> Data Analysis & AI </div>
 
 <div align="center">
 
