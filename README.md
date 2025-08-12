@@ -44,7 +44,6 @@
 
 </div>
 
-<br><br><br>
 
 ## Intern
 #### <div align="center">NIA 공공데이터인턴, INTERX</div>
