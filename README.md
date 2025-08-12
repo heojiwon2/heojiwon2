@@ -49,7 +49,7 @@
 #### <div align="center">NIA 공공데이터인턴, INTERX</div>
 
 ## Study
-#### Undergraduate Researcher in KDD Lab at Inha University, focused on recommendation systems and IoT
+#### Undergraduate Researcher in KDD Lab at Inha University, focused on recommendation systems
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&text=Thank%20you!&fontAlign=50&fontSize=30)
 
