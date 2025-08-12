@@ -3,7 +3,7 @@
 
 
 
-## 👋 Hi I'm Jiwon Heo , I want to make my society happier and more efficiently!
+## 👋 Hi I'm Jiwon Heo , I want to make my society a happier and more efficient place!
 <div align="center">
 
 📫 email: hjo2604@naver.com
