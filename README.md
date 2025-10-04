@@ -46,7 +46,7 @@
 
 
 ## Intern
-#### <div align="center">NIA 공공데이터인턴, INTERX</div>
+#### <div align="center">NIA 공공데이터인턴, INTERX, PUZL </div>
 
 ## Study
 #### Undergraduate Researcher in KDD Lab at Inha University, focused on recommendation systems
